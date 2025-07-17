@@ -31,7 +31,7 @@ print(a+" "+b)
 name = input("Please tell me your name:")
 print(f"Hi {name} welcome to college")
 
-a = "*"+10  #TypeError: can only concatenate str (not "int") to str
+#a = "*"+10  #TypeError: can only concatenate str (not "int") to str
 print(a)
 
 b = "*"*10

@@ -27,5 +27,5 @@ print("myname is {name}, and I live in {place}".format(place="HYD", name="Sreeja
 ##=========================== F strings  ========================
 
 print("My name is {}".format(var1))   ## it makes the format syntax more simpler
-print(f"My name is {var1}")
-
+print(f"My name is {var1}")         #My name is Suresh
+print("my name is {exx2}".format(exx2="123"))       #my name is 123

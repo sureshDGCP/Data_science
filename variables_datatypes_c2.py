@@ -4,12 +4,12 @@ print("Hello Suresh")
 print("test")
 '''
 
-##print("5"+2)
+##print("5"+2)      # TypeError: can only concatenate str (not "int") to str
 
-print("5+2")
-print("5"+"2")
+print("5+2")        # output is :5+2
+print("5"+"2")      # output is : 52
 c= 7
-print("The result is "+ str(7))
+print("The result is "+ str(7))     #   The result is 7
 # same datatypes can be concatenated
 
 '''==================== variables ======= '''
@@ -20,7 +20,7 @@ Name = "SHRI ram"
 _name = "_dummy_name"
 name123 = 123
 
-print(str(name123)+NAME,name,Name,_name)
+print(str(name123)+NAME,name,Name,_name)        #123SREEJA suresh SHRI ram _dummy_name
 
 ## invalid variables
 
@@ -28,7 +28,7 @@ print(str(name123)+NAME,name,Name,_name)
 #123name = "test2"
 ##t1 t2 = "test3"
 
-##try = "test4"
+##try = "test4"       #SyntaxError: invalid syntax
 ##print(try)
 
 var1 = 5+2  ##(+ is operator and 5,2 is operand)
