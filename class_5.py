@@ -39,12 +39,6 @@ print(5 < 10)   #True
 print("ABC"=="abc") #False since Python is case sensitive caps and small letters are not same in pyhton
 
 
-# ======================== Logical Operators ==============================
-
-'''
-Logical operators are [ and, or not ]
-
-'''
 # ====================== other operators =============================
 #
 # [% -> remainder operator, ** -> exponent operator like

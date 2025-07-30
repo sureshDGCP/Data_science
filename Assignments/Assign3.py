@@ -47,7 +47,7 @@ print(len(input_string))
 #print(input_string[1]+input_string[3]+input_string[5]+input_string[7]+input_string[9])
 
 
-print(input_string[::2])  # Even indices: 0, 2, 4, .... "2" in the [::2] is used to set the how many letters you want to skip
+print(input_string[::2])  # Even indices: 0, 2, 4, .... "2" in the [::2] is used to set  how many letters you want to skip
 print(input_string[1::2])
 # for ::2 what happens is start = 0 and then 0+2 = 2 , 2+2= 4, and so on ....
 # for 1::2 what happens here is start is 1 then 1+2=3, 3+2=5, and so on.....

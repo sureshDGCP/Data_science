@@ -1,5 +1,5 @@
 '''
-Question 2 : Take input from user print if it is a even no or odd number
+Question 2 : Take input from user print if it is an even no or odd number
 using if else
 --done
 '''

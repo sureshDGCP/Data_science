@@ -27,20 +27,20 @@ Question 1: Try all the combinations of datatype conversions from below
 # #var2 = int(var2)
 # print(var2)
 
-
+#
 # var3 = 5.0
 # print(type(var3))
-
+#
 # var3 = float(var3)
 # print(var3)
-
+#
 # var3 = int(var3)
 # print(var3)
-
+#
 # var3 = str(var3)
 # print(var3)
 # print(type(var3))
-
+#
 # var3 = bool(var3)
 # print(var3)
 
@@ -48,11 +48,11 @@ Question 1: Try all the combinations of datatype conversions from below
 var4 = True
 print(type(var4))
 
-# var4 = int(var4)
-# print(f"{var4} and {type(var4)}")
-#
-# var4 = float(var4)
-# print(f"{var4} and type is {type(var4)}")
+var4 = int(var4)
+print(f"{var4} and {type(var4)}")
+
+var4 = float(var4)
+print(f"{var4} and type is {type(var4)}")
 
 
 var4 = str(var4)

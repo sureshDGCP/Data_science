@@ -33,7 +33,6 @@ Question 5: Take a character from user e.g. a, b, ........ and print whether its
 '''
 
 '''
-
 Question 6: Take marks from students it could from 0  to 100, if the student scores 0 to 30 its avg, if 30 - 65 its above avg, 
 65 - 75 its good, and above 75 its best and print the results accordingly 
 
