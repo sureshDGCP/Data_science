@@ -24,18 +24,18 @@ if then print its multiplier if not then print.
 '''
 Question 4: take an input from user and identify its a prime no or not
 and then print 
-
+--done
 '''
 
 '''
 Question 5: Take a character from user e.g. a, b, ........ and print whether its a vowel or consonent 
-
+--done
 '''
 
 '''
 Question 6: Take marks from students it could from 0  to 100, if the student scores 0 to 30 its avg, if 30 - 65 its above avg, 
 65 - 75 its good, and above 75 its best and print the results accordingly 
-
+--done
 '''
 
 '''
